@@ -77,4 +77,3 @@ Identify and segment telecom customers at risk of churning using a full-stack da
 
 ---
 
-Would you like this exported as a `.md` file or copy-ready for your GitHub repo?
